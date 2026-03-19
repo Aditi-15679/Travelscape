@@ -20,7 +20,6 @@
 * **HTML5** – Semantic structure and layout.
 * **CSS3** – Custom styling, Flexbox/Grid, and responsive media queries.
 * **Google Fonts** – Enhanced typography for better readability.
-
 ---
 
 ## 📂 Project Structure
@@ -30,7 +29,7 @@ Beyond-Horizons/
 ├── index.html          # Main HTML entry point
 ├── style.css           # Custom CSS styling
 └── images/             # Local directory for all travel assets
-
+```
 ---
 
 ## 🚀 How to Run
