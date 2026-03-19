@@ -38,7 +38,7 @@ Beyond-Horizons/
   `git clone <your-github-repo-url>`
 
 * Navigate to the folder:  
-  `cd Beyond-Horizons`
+  `cd Travelscape`
 
 * Launch the site:  
   Simply open `index.html` in any modern web browser.  
