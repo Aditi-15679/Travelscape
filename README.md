@@ -1,6 +1,6 @@
-# Beyond Horizons 🌏✈️
+# Travelscape 🌏✈️
 
-**Beyond Horizons** is a modern, responsive travel landing page designed to inspire and guide travelers. This project showcases a curated collection of beautiful destinations worldwide, blending sleek aesthetics with smooth interactivity.
+**Travelscape** is a modern, responsive travel landing page designed to inspire and guide travelers. This project showcases a curated collection of beautiful destinations worldwide, blending sleek aesthetics with smooth interactivity.
 
 ---
 
@@ -20,15 +20,16 @@
 * **HTML5** – Semantic structure and layout.
 * **CSS3** – Custom styling, Flexbox/Grid, and responsive media queries.
 * **Google Fonts** – Enhanced typography for better readability.
+
 ---
 
 ## 📂 Project Structure
 
 ```text
-Beyond-Horizons/
+Travelscape/
 ├── index.html          # Main HTML entry point
 ├── style.css           # Custom CSS styling
-└── images/             # Local directory for all travel assets
+└── images/             # Local directory for all assets
 ```
 ---
 
